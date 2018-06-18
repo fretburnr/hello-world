@@ -2,5 +2,5 @@
 sample repo
 
 
-//this is a test of branching
-//i am a jelly donut
+this is a test of branching
+i am a jelly donut
